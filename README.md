@@ -2,9 +2,15 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=2,6,11,20&text=Bushra%20Bilal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Aspiring%20Cyber%20Security%20%26%20Data%20Science%20Enthusiast&descAlignY=62&descSize=16"/>
 
-<img width="120" style="border-radius:50%" src="https://github.com/bushrabilal-official.png"/>
+<br>
 
-<br><br>
+<img width="45" src="https://media.giphy.com/media/hKs6Hv1qBFQjAGjpBY/giphy.gif"/>
+
+# 👋 Hi, I'm Bushra!
+
+<img width="45" src="https://media.giphy.com/media/hKs6Hv1qBFQjAGjpBY/giphy.gif"/>
+
+### **Building my path in tech — one problem, one project, one line of code at a time.** ✨
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=900&color=2E9CFF&center=true&vCenter=true&width=650&lines=%F0%9F%8E%93+Software+Engineering+Student+%40+CUST;%F0%9F%94%90+Exploring+Cyber+Security;%F0%9F%93%8A+Learning+Data+Science;%F0%9F%92%A1+Problem+Solver+%40+HackerRank"/>
 
@@ -16,11 +22,11 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=2,6,11,20"/>
+<img src="https://media.giphy.com/media/hKs6Hv1qBFQjAGjpBY/giphy.gif" width="30"/> <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=2,6,11,20" width="90%"/>
 
 ## 🌸 About Me
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 Aspiring **Software Engineer** with a growing interest in **Cyber Security** and **Data Science**. I enjoy sharpening my programming, analytical, and problem-solving skills while exploring modern, data-driven technologies. Currently building a strong academic and practical foundation through coursework, projects, and self-learning.
 
@@ -35,22 +41,34 @@ Aspiring **Software Engineer** with a growing interest in **Cyber Security** and
 
 ## 🎓 Education
 
-```mermaid
-timeline
-    title Academic Journey
-    Feb 2024 : Started Software Engineering (Under Grad)
-    Aug 2024 : Enrolled at Capital University of Science & Technology
-    2025     : Building Core CS Foundations
-    Aug 2028 : Expected Graduation
-```
-
 <div align="center">
 
-**Capital University of Science & Technology (CUST)**
-Bachelor of Software Engineering · `Aug 2024 – Aug 2028`
-🏆 Current CGPA: **3.87 / 4.0**
+<table>
+<tr>
+<td width="60" align="center">🏛️</td>
+<td>
 
-*Software Engineering Student · Academic Projects · Programming · Teamwork · Problem Solving*
+**Capital University of Science & Technology (CUST)**
+Bachelor of Software Engineering
+📅 `Aug 2024 – Aug 2028`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/🏆_CGPA-3.87%2F4.0-2E9CFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📚_Program-Software_Engineering-1E90FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🗓️_Duration-2024_--_2028-0F52BA?style=for-the-badge"/>
+
+<br><br>
+
+| 🎯 Focus | Details |
+|:---|:---|
+| **Coursework** | Software Engineering · Programming Fundamentals · OOP |
+| **Activities** | Academic Projects · Teamwork · Problem Solving |
+| **Direction** | Cyber Security & Data Science exploration |
 
 </div>
 
@@ -124,16 +142,6 @@ Bachelor of Software Engineering · `Aug 2024 – Aug 2028`
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=2,6,11,20"/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=bushrabilal-official&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=2,6,11,20"/>
-
 ## 🌱 Currently Building
 
 <div align="center">
@@ -162,7 +170,11 @@ Bachelor of Software Engineering · `Aug 2024 – Aug 2028`
 
 <div align="center">
 
+<img width="30" src="https://media.giphy.com/media/hKs6Hv1qBFQjAGjpBY/giphy.gif"/>
+
 ### 🌸 *"Every expert was once a beginner — learning one problem at a time."*
+
+<img width="30" src="https://media.giphy.com/media/hKs6Hv1qBFQjAGjpBY/giphy.gif"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=2,6,11,20"/>
 
