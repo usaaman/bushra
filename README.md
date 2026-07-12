@@ -101,18 +101,43 @@
 
 <table>
 <tr>
-<td width="100%" valign="top">
+<td width="33%" valign="top">
+
+### 🌿 Henna Website
+A modern, elegant portfolio website for a henna artist — showcasing designs, services, pricing, testimonials, and an easy appointment booking flow.
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+<a href="https://github.com/bushrabilal-official/Henna-Website"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github"/></a>
+
+</td>
+<td width="33%" valign="top">
+
+### 🏥 MediScout Pakistan (Hackathon MedAI)
+An AI-powered community healthcare platform built during a hackathon — AI medical chatbot, early disease risk prediction, and an interactive analytics dashboard.
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/AI_Healthcare-6C63FF?style=flat-square"/>
+
+<a href="https://github.com/bushrabilal-official/Hackathon-MedAI"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github"/></a>
+
+</td>
+<td width="33%" valign="top">
 
 ### 💬 Chat App
 A chat application project showcasing core programming and software development skills.
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
 <a href="https://github.com/bushrabilal-official/Chat-App"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github"/></a>
 
 </td>
 </tr>
 </table>
-
----
 
 # 📊 GitHub Analytics
 
