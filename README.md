@@ -1,16 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=2,6,11,20&text=Bushra%20Bilal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Aspiring%20Cyber%20Security%20%26%20Data%20Science%20Enthusiast&descAlignY=62&descSize=16"/>
-
-<br>
-
-<img width="45" src="https://media.giphy.com/media/hKs6Hv1qBFQjAGjpBY/giphy.gif"/>
+<img width="100%" height="220" style="object-fit:cover;border-radius:10px" src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif"/>
 
 # 👋 Hi, I'm Bushra!
 
-<img width="45" src="https://media.giphy.com/media/hKs6Hv1qBFQjAGjpBY/giphy.gif"/>
-
-### **Building my path in tech — one problem, one project, one line of code at a time.** ✨
+## **Building my path in tech — one problem, one project, one line of code at a time.** ✨
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=900&color=2E9CFF&center=true&vCenter=true&width=650&lines=%F0%9F%8E%93+Software+Engineering+Student+%40+CUST;%F0%9F%94%90+Exploring+Cyber+Security;%F0%9F%93%8A+Learning+Data+Science;%F0%9F%92%A1+Problem+Solver+%40+HackerRank"/>
 
@@ -22,7 +16,7 @@
 
 </div>
 
-<img src="https://media.giphy.com/media/hKs6Hv1qBFQjAGjpBY/giphy.gif" width="30"/> <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=2,6,11,20" width="90%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=2,6,11,20"/>
 
 ## 🌸 About Me
 
@@ -170,11 +164,7 @@ Bachelor of Software Engineering
 
 <div align="center">
 
-<img width="30" src="https://media.giphy.com/media/hKs6Hv1qBFQjAGjpBY/giphy.gif"/>
-
 ### 🌸 *"Every expert was once a beginner — learning one problem at a time."*
-
-<img width="30" src="https://media.giphy.com/media/hKs6Hv1qBFQjAGjpBY/giphy.gif"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=2,6,11,20"/>
 
