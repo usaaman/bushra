@@ -116,13 +116,16 @@ Bachelor of Software Engineering
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bushrabilal-official&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1B2A&title_color=2E9CFF&icon_color=1E90FF&text_color=FFFFFF&rank_icon=github"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=bushrabilal-official&theme=tokyonight&hide_border=true&background=0D1B2A&ring=2E9CFF&fire=1E90FF&currStreakLabel=1E90FF"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bushrabilal-official&theme=tokyonight&hide_border=true&background=0D1B2A&ring=2E9CFF&fire=1E90FF&currStreakLabel=1E90FF"/>
 
 <br><br>
 
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bushrabilal-official&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1B2A&title_color=2E9CFF&text_color=FFFFFF"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=2,6,11,20"/>
+
 ## 📈 Contribution Graph
 
 <div align="center">
