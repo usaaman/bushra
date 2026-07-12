@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=2,6,11,20&text=Bushra%20Bilal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Aspiring%20Cyber%20Security%20%26%20Data%20Science%20Enthusiast&descAlignY=62&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=2,6,11,20&text=Bushra%20Bilal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Aspiring%20Cyber%20Security%20and%20Data%20Science%20Enthusiast&descAlignY=62&descSize=16"/>
 
 # 👋 Hi, I'm Bushra!
 
