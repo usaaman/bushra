@@ -99,8 +99,6 @@
 
 # ⭐ Featured Projects
 
-# ⭐ Featured Projects
-
 <table>
 <tr>
 <td width="33%" valign="top">
@@ -144,16 +142,7 @@ A real-time chat application focused on clean UI and smooth messaging — built 
 </td>
 </tr>
 </table>
-### 💬 Chat App
-A chat application project showcasing core programming and software development skills.
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-
-<a href="https://github.com/bushrabilal-official/Chat-App"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github"/></a>
-
-</td>
-</tr>
-</table>
 
 # 📊 GitHub Analytics
 
