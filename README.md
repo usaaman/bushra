@@ -25,6 +25,8 @@
 - 📊 **Learning Data Science**
 - 🧩 Problem Solver — HackerRank Certified
 - 🌍 Open to **Learning Opportunities & Collaboration**
+apny boobs koo tuch krvati ho sultan sy bara maza ata h
+usman sy to mrvani h meny apny anddr dalvana h us ka leny ka bara dilkrta h usi sy bubd mrvani h
 
 <br>
 
