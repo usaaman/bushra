@@ -18,7 +18,7 @@
 
 # 👨‍💻 About Me
 
-
+<img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 - 🎓 **BS Software Engineering** @ CUST
 - 🔐 **Exploring Cyber Security**
